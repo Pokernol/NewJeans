@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Palanquin:wght@200&family=Passion+One&family=Rozha+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Palanquin+Dark&family=Palanquin:wght@300&family=Ramabhadra&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+body, html {
+    font-size: 100%; 
+    background: #ffffff!important;
+  }
+
+#carouselExampleIndicators{
+    width: 650px;
+  }
+#inlineCheckbox1{
+  font-family: 'Palanquin', sans-serif;
+  font-size: 20px;
+}
+
+  .carossel{
+    height: 500px;
+    width: 500px;
+  }
+.cabeçalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;  
+    justify-content: space-between;
+  }
+.logo{
+   position: relative;
+   top:6px;
+   left:760px;
+  }
+.imagem-logo{
+    height: 100px;
+  }
+.titulo{
+    text-align: center;
+    font-size: 65px;
+    color: black;
+    font-family: 'Rozha One', serif;
+  }
+.colecoes{
+    width: 650px;
+  }
+.produtos{
+  width: 150px;
+}
+.subtitulo{
+  font-family: 'Passion One', cursive;
+  font-size: 30px;
+}
+.prodesc{
+  font-family: 'Palanquin', sans-serif;
+  font-size: 20px;
+}
+.preço{
+  font-family: 'Arimo', sans-serif;
+  font-size: 24px;
+}
+.rodape{
+  background-color: #212529;
+}
+.titulo-rodape{
+  font-family: 'Passion One', cursive;
+  font-size: 27px;
+  color: white;
+}
+.inforodape{
+  font-family: 'Palanquin', sans-serif;
+  font-size: 15px;
+
+}
+.h1-secundario{
+  font-family: 'Ramabhadra', sans-serif;
+  font-size: 55px;
+}
+.titulo-secundario{
+  font-family: 'Palanquin Dark', sans-serif;
+  font-size: 25px;
+}
+
+.texto-secundario{
+  font-family: 'Palanquin', sans-serif;
+  font-size: 20px;
+}
+.coelho1{
+  position: absolute;
+  top:250px;
+  right: 200px;
+
+}
+.coelho2{
+  position: absolute;
+  top:250px;
+  left:200px ;
+}
+.subtitulo-secundario{
+  font-family: 'Passion One', cursive;
+  font-size: 20px;
+}
